@@ -177,11 +177,3 @@ Created with ❤️ for learning purposes.
 ### 🌈 Final Thought
 
 > “If you can make a computer understand a smile, you're already a magician.” 🎩✨
-
-```
-
----
-
-Tu peux copier-coller ce texte **tel quel** dans ton fichier `README.md`.  
-Si tu veux, je peux aussi te générer ce fichier `.md` pour que tu le récupères.
-```
