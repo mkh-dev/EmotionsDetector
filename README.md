@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*11IZu1gHHnpYtHnns6ddew.gif" alt="emotion-detection-demo" width="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*11IZu1gHHnpYtHnns6ddew.gif" alt="emotion-detection-demo" width="500"/>
 </p>
 
 ---
