@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3df5/680a070c3b99253410dd46c8_67ed553b4b7add409d700f61_67473ea5f7130b59a282d25e_67473461681acf216620d4c0_Mental%25252520Health_Fig%252525201.png" alt="Emotion AI Preview" width="500"/>
+</p>
+
+---
+
 ## 📸 What is this project?
 
 This is a beginner-friendly, real-time **Emotion Detection App** using your **webcam**, powered by **Artificial Intelligence (AI)** and **Computer Vision**.
