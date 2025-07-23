@@ -170,5 +170,3 @@ This project is licensed under the MIT License.
 Created with ❤️ by [mkh-dev](https://github.com/mkh-dev)
 
 ```
-
----
