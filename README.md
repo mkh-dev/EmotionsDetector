@@ -1,5 +1,3 @@
-Bien sûr Rahma ! Voici un README super détaillé, clair et fun pour ton app Password Leak Checker, formaté exactement comme tu veux, en anglais avec emojis et tout :
-
 ````markdown
 # 🔐 Password Leak Checker with Python & Streamlit
 
