@@ -8,7 +8,7 @@
 
 ---
 
-![Demo](assets/demo.gif)
+![Demo](demo.gif)
 
 🔗 **Live Demo:** [https://is-it-leaked.streamlit.app/](https://is-it-leaked.streamlit.app/)
 
