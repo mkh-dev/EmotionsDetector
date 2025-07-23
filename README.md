@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
 ![Keras](https://img.shields.io/badge/Keras-TensorFlow-red?logo=keras)
-![Difficulty](https://img.shields.io/badge/Level-Beginner-yellow)
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 
 <p align="center">
