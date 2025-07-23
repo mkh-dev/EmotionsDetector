@@ -8,7 +8,10 @@
 
 ---
 
-![Demo](https://raw.githubusercontent.com/mkh-dev/password-leak-checker/main/demo.gif)
+![Demo](assets/demo.gif)
+
+🔗 **Live Demo:** [https://is-it-leaked.streamlit.app/](https://is-it-leaked.streamlit.app/)
+
 
 ---
 
