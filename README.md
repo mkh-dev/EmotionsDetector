@@ -1,4 +1,3 @@
-````markdown
 # 🔐 Password Leak Checker with Python & Streamlit
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python)
@@ -9,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mkh-dev/password-leak-checker/main/demo.gif" alt="password-leak-checker-demo" width="500"/>
-</p>
+![Demo](https://raw.githubusercontent.com/mkh-dev/password-leak-checker/main/demo.gif)
 
 ---
 
@@ -25,6 +22,7 @@ This is a simple and interactive **Password Leak Checker** app built with **Pyth
 - 🔗 Explore the project on GitHub
 
 ---
+
 
 ## 🧰 Technologies Used
 
